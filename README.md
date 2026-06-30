@@ -169,7 +169,4 @@ ___
 ## Connect
 
 - LinkedIn: www.linkedin.com/in/philisiwe-ncube-258263360
-- Certifications: ISC2 Certified in Cybersecurity (CC)
-- Currently studying: AZ-900 Azure Fundamentals
-
-> *Self-taught. Durban-based. Building in public.*
+- Certifications: ISC2 Certified in Cybersecurity (CC) & Microsoft Certified: Azure Fundamentals (AZ-900)
